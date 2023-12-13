@@ -15,6 +15,6 @@ class Menousdb < Formula
   end
 
   test do
-    system "#{bin}/menousdb",
+    system "#{bin}/menousdb"
   end
 end
