@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Menousd < Formula
+class Menousdb < Formula
   desc "A lightweight database"
   homepage "https://github.com/MenousTech/Menous-DB"
   url "https://github.com/MenousTech/Menous-DB/releases/download/0.2.0/menousdb.tar.gz"
