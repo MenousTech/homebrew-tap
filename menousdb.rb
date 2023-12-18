@@ -5,7 +5,7 @@ class Menousdb < Formula
   desc "A lightweight database"
   homepage "https://github.com/MenousTech/Menous-DB"
   url "https://github.com/MenousTech/Menous-DB/releases/download/0.2.1/menousdb.tar.gz"
-  sha256 "e1bda8a59983087f550e577a67f6ac6880e7328c97b75fa921f45e5885b60a70"
+  sha256 "b3b90a173b5b3532c22ae5a7d93d3d085b59efb3242405b95b1de4c3b09ffac8"
   license "MIT"
 
   # depends_on "cmake" => :build
